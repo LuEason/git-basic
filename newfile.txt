@@ -1,3 +1,4 @@
 'git add' adds the modified files to the queue to be committed later. But files are not committed. 
 'git commit' commits the files that have been added and creates a new revision with a log. If any files are not added, git will not commit anything.
 'git push' pushes the changes to the remote repository.
+good good study, day day up.
